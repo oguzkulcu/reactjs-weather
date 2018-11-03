@@ -1,0 +1,20 @@
+.pt {
+    border: #ddd 1px solid;
+}
+
+.havadrm {
+    font-size: 75px
+}
+
+.kaldir {
+    background-color: red;
+    color: white !important;
+    padding: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.liactive a {
+    color: black !important;
+}
